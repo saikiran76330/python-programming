@@ -1,0 +1,6 @@
+n1,n2=map(int,input().split())
+print("before swapping:",n1,n2)
+a=n1
+n1=n2
+n2=a
+print("after swapping:",n1,n2)
