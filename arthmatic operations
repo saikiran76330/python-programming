@@ -1,0 +1,5 @@
+n1,n2=map(int,input().split())
+print("addition:", n1+n2,
+      "\nsubtraction:",n1-n2,
+      "\nmultiplication:",n1*n2,
+      "\ndivision:",n1/n2)
